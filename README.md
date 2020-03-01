@@ -1,2 +1,2 @@
 # web_books_app
-Web application to manager library
+Web application to manage library.
